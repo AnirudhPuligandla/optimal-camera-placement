@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>humvee.obj</file>
+    </qresource>
+</RCC>
